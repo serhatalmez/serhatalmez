@@ -9,6 +9,7 @@
   <img align="left" alt="Almez Discord" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/discord-round.svg" />
 </a>
 <br>
+<br>
 I'm almez, I'm something of a LUA developer myself, and...
 
 - 🔭 18yo
