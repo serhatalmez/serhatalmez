@@ -10,7 +10,7 @@
 </a>
 <br>
 <a>
-<img align="left" alt="My Last Project is:" src="https://media.discordapp.net/attachments/783339867680669727/859054213036245042/unknown.png" />
+<img alt="My Last Project is:" src="https://media.discordapp.net/attachments/783339867680669727/859054213036245042/unknown.png" />
 </a>I'm almez, I'm something of a LUA developer myself, and...
 
 - 🔭 18yo
