@@ -8,8 +8,9 @@
 <a href="https://discord.gg/2Np9bJW2m9">
   <img align="left" alt="Almez Discord" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/discord-round.svg" />
 </a>
+<a>
 <img align="left" alt="My Last Project is:" src="https://media.discordapp.net/attachments/783339867680669727/859054213036245042/unknown.png" />
-I'm almez, I'm something of a LUA developer myself, and...
+</a>I'm almez, I'm something of a LUA developer myself, and...
 
 - 🔭 18yo
 - 😡 Hates elseif, function() end
