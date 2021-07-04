@@ -23,4 +23,5 @@ I'm almez, I'm something of a LUA developer myself, and...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatalmez&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Almez's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatalmez&show_icons=true&theme=radical)
+<br>
 <img alt="My Last Project is:" src="https://media.discordapp.net/attachments/783339867680669727/859054213036245042/unknown.png" />
