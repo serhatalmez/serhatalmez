@@ -21,7 +21,5 @@ I'm almez, I'm something of a LUA developer myself, and...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatalmez&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Almez's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatalmez&show_icons=true&theme=radical)
 <br>
