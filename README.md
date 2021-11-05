@@ -10,7 +10,7 @@
 </a>
 <br>
 <br>
-I'm almez, I'm something of a LUA developer myself, and...
+I'm almez, I'm something of a developer myself, and...
 
 - 🔭 18yo
 - 😡 Hates elseif, forgets to add a wait to the while loop
