@@ -28,7 +28,7 @@ I'm almez, I'm something of a developer myself, and...
 
 <h4>My Projects</h4>
 <a href="https://www.youtube.com/watch?v=xrbALlPETQQ&t=1s&ab_channel=RedGames">
-  Standalone Gunrace 
+  Standalone Gunrace\n
 </a>
 <a href="https://www.youtube.com/watch?v=5HbaWJrMlzM&ab_channel=RedGames">
  PvP Menu
