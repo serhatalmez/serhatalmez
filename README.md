@@ -1,15 +1,3 @@
-### Hi! 👋
-<a href="https://instagram.com/serhatalmez">
-  <img align="left" alt="Almez | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
-<a href="https://twitter.com/serhatalmezz">
-  <img align="left" alt="Almez | Twitter" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/2Np9bJW2m9">
-  <img align="left" alt="Almez Discord" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/discord-round.svg" />
-</a>
-<br>
-<br>
 I'm almez, I'm something of a developer myself.
 **Languages:**  
 
