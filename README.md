@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatalmez&label=Profile%20views&color=000000&style=flat-square" alt="serhatalmez" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/almez](https://discord.gg/almez)
+- 👨‍💻 Pixel Perfectionist & Front-end Artisan at Brainstorm Labs
 
 - 💬 Ask me about **react, typescript, javascript**
 
